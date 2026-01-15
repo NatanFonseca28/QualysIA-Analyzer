@@ -1,0 +1,12 @@
+customtkinter
+requests
+python-dotenv
+pandas
+numpy
+matplotlib
+google-generativeai
+groq
+python-docx
+flask
+plotly
+xlsxwriter
